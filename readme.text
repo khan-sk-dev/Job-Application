@@ -32,7 +32,6 @@ The project aims to provide a comprehensive platform for managing job applicatio
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/sohaibkhan-007/my-monolithic-Job-application.git
     cd my-monolithic-Job-application
     ```
 
